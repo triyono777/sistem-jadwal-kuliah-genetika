@@ -88,14 +88,14 @@
                   </p>
                 </a>
               </li>
-              {{-- <li class="nav-item ml-2">
+              <li class="nav-item ml-2">
                 <a href="/managekuliah/manageprodi" class="nav-link">
                   <i class="nav-icon fas fa-circle-notch {{ (request()->segment(2) == 'manageprodi') ? 'text-greenTheme rotate-90d' : '' }}"></i>
                   <p class="{{ (request()->segment(2) == 'manageprodi') ? 'text-greenTheme' : '' }}">
                     Manage Program Studi
                   </p>
                 </a>
-              </li> --}}
+              </li>
             </ul>
           </li>
           <li class="nav-item">
