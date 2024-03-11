@@ -9,6 +9,8 @@
 
 ## Cara Penggunaan
 
+Laravel 8, PHP 7
+
 Pada algoritma genetika, terdapat individu, kromosom dan gen.
 
 Individu disini yaitu jadwal perkuliahan utuh.
